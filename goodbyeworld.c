@@ -1,4 +1,4 @@
 void main()
 {
-	printf("Hello world!");
+	printf("Goodbye world!");
 }
